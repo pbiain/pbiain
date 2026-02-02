@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pbiain
-- 👀 I’m interested in programming and AI
-- 🌱 I’m currently learning Python
+- 👀 I’m an AI Consultant
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me pbiain@gmail.com
 - 😄 Pronouns: Peter
